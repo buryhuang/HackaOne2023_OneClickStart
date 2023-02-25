@@ -1,0 +1,1 @@
+python create-algorand-app.py start_all
