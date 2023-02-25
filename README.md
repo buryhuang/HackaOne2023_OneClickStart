@@ -10,9 +10,9 @@ Create Algorand App is a comfortable environment for learning Algorand, and is t
 ## Start
 Starting the full local eco-system with commands below
 ```
-./create-algorand-app my-app
+./create-algorand-app.sh my-app
 cd my-app
-./start-all
+./start-all.sh
 ```
 
 ## Test
