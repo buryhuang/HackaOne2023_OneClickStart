@@ -10,9 +10,12 @@ Create Algorand App is a comfortable environment for learning Algorand, and is t
 ## Start
 Starting the full local eco-system with commands below
 ```
+pipenv shell
+pipenv install
+
 ./create-algorand-app.sh my-app
 cd my-app
-./start-all.sh
+npm start
 ```
 
 ## Test
