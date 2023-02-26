@@ -1,5 +1,5 @@
-# HackaOne 2023 - Create Algorand App
-
+# HackaOne 2023 - Create Algorand App In OneClick
+This is a guide to developing and deploying decentralized applications (dApps) on the Algorand blockchain.
 Create Algorand App is a comfortable environment for learning Algorand, and is the best way to start building a new dApp in Algorand eco-system.
 
 
